@@ -13,7 +13,7 @@ class LandingPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              "Lets Quizzz",
+              "Lets Quiz",
               style: TextStyle(
                   color: Colors.white,
                   fontSize: 50.0,
